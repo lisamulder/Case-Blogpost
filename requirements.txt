@@ -1,5 +1,4 @@
 requests==2.25.1
 pandas==1.2.4
-px==5.1.0
 streamlit==0.89.0
 
